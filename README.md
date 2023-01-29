@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello there 👋!
+My name is Arun and I am always curious to know how things work under the hood. 
 
+ 🔭 I’m currently working on my graduate program in ECE.
+ 🌱 I’m currently learning C++, Wireless communications and FreeRTOS.
+ 👯 I’m looking to collaborate on open source safety critical and intelligent embedded systems projects.
+ 🤔 I’m looking for help with realtime-embedded system development.
+ 💬 Ask me about debugging and best embedded systems resources
+
+ 😄 Pronouns: Hoo-man
+ ⚡ Fun fact: I read more non-fiction books.
 <!--
 **Aruncsula/Aruncsula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning C++ and FreeRTOS
+- 👯 I’m looking to collaborate on Safety Critical Intelligent Embedded systems
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Debugging and Best Embedded systems Resources
+- 📫 How to reach me: 
+- 😄 Pronouns: Hoo-man
+- ⚡ Fun fact: I support both Realmadrid & Barcelona
 -->
