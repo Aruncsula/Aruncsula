@@ -2,7 +2,7 @@
 My name is Arun and I am always curious to know how things work under the hood. 
 
  🔭 I’m currently working on my graduate program in ECE.
- 🌱 I’m currently learning C++, Wireless communications and FreeRTOS.
+ 🌱 I’m currently learning Controls,Machine learning and RTOS.
  👯 I’m looking to collaborate on open source safety critical and intelligent embedded systems projects.
  🤔 I’m looking for help with realtime-embedded system development.
  💬 Ask me about debugging and best embedded systems resources
