@@ -1,5 +1,5 @@
 ### Hello there 👋!
-My name is Arun and I am always curious to know how things work under the hood. Most of of repos are private as I am refining and versionong most of the projects.
+My name is Arun and I am always curious to know how things work under the hood. Most of repos are private as I am refining and versionong most of the projects.
 
  🔭 I’m currently working on my graduate program in ECE.
  🌱 I’m currently learning Controls,Machine learning and RTOS.
